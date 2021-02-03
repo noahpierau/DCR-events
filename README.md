@@ -1,6 +1,6 @@
 # Decred Events
 
-A collection of several events I attended on behalf of Decred.
+A collection of several events I attended on behalf of Decred
 
 * [reports](reports) for past events
 
