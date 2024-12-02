@@ -1,7 +1,7 @@
 # Decred Events
 
-A collection of several events I attended on behalf of Decred
+A collection of several events I attended on behalf of Decred.
 
-* [reports](reports) for past events
+Here you can find [reports](reports) for past events.
 
-Representing the project at meetups and conferences was always fun
+Representing DCR at meetups and conferences was always fun!
